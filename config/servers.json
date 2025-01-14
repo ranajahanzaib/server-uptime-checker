@@ -1,0 +1,7 @@
+{
+  "servers": [
+    { "url": "http://google.com", "method": "http" },
+    { "url": "https://rust-lang.org", "method": "http" }
+  ],
+  "check_interval": 60
+}
