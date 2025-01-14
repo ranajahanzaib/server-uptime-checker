@@ -1,8 +1,16 @@
-# Project Title
+# Server Uptime Checker
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-This is another Open Source Project.
+Monitor server uptime by periodically checking a list of servers, logging their status, and sending alerts when downtime is detected.
+
+### Core Features:
+
+• Accept a list of server URLs or IPs.
+• Periodic health checks (e.g., every X seconds).
+• Support HTTP, HTTPS, and ping checks.
+• Generate logs for availability.
+• Send notifications (e.g., email, Slack) when a server goes down.
 
 ## Contributing
 
