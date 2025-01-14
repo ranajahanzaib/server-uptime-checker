@@ -6,11 +6,11 @@ Monitor server uptime by periodically checking a list of servers, logging their 
 
 ### Core Features:
 
-• Accept a list of server URLs or IPs.
-• Periodic health checks (e.g., every X seconds).
-• Support HTTP, HTTPS, and ping checks.
-• Generate logs for availability.
-• Send notifications (e.g., email, Slack) when a server goes down.
+- Accept a list of server URLs or IPs.
+- Periodic health checks (e.g., every X seconds).
+- Support HTTP, HTTPS, and ping checks.
+- Generate logs for availability.
+- Send notifications (e.g., email, Slack) when a server goes down.
 
 ## Contributing
 
